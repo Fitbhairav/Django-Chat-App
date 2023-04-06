@@ -14,7 +14,7 @@ A chat application built using django rest framework. The user can search other 
 **GUI for message page**
 ![Screenshot (101)](https://user-images.githubusercontent.com/114358084/230364513-268a9fa9-b1f2-42c4-8ee8-075355f667f1.png)
 
-**Installation**
+**Installation** &nbsp 
 pip install django
 pip install django-rest-framework
 
