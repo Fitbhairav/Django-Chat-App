@@ -1,6 +1,6 @@
 # Django-Chat-App
 
-**Django Chat Application**
+**Django Chat Application**  
 A chat application built using django rest framework. The user can search other users and add them as a friend and have one to one chat with their friends.
 
 **GUI for home page**
