@@ -15,14 +15,14 @@ A chat application built using django rest framework. The user can search other 
 ![Screenshot (101)](https://user-images.githubusercontent.com/114358084/230364513-268a9fa9-b1f2-42c4-8ee8-075355f667f1.png)
 
 **Installation**  
-pip install django
+pip install django  
 pip install django-rest-framework
 
 **How to use?**  
-Clone the repository
-Inside the project folder, open terminal
-Run the following command in the terminal:
-python manage.py runserver
+Clone the repository  
+Inside the project folder, open terminal  
+Run the following command in the terminal:  
+python manage.py runserver  
 It will run the application on your localhost.  
 
 Open the browser with the localhost address and enjoy the application.
